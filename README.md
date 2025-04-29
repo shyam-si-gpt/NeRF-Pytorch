@@ -7,7 +7,7 @@ This is a PyTorch implementation of **Neural Radiance Fields (NeRF)** for novel 
 ## 🛠️ Installation
 
 ```bash
-git clone <your_repo_link_here>
+git clone https://github.com/shyam-si-gpt/NeRF-Pytorch.git
 cd nerf-pytorch
 pip install -r requirements.txt
 ```
