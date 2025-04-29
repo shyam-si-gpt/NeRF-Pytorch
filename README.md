@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 **Required Libraries:**
-- PyTorch 1.4+
+- PyTorch
 - matplotlib
 - numpy
 - imageio
